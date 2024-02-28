@@ -25,7 +25,7 @@ body{
 /* ^^^^^^^^^^^^^^^^ whatsapp logo ^^^^^^^^^^^^^^^^^^^^^^ */
 .whatsapp-main{
     position: fixed;
-    bottom: 40px;
+    bottom: 200px;
     right: 20px;
     text-align: right;
     z-index: 10;
